@@ -19,7 +19,7 @@ CefSharp is BSD licensed, so it can be used in both proprietary and free/open so
 - Equals a private browser cause no history is saved.
 
 ### It cannot do (As of now)
-- Doesn't support history,bookmarks,favourites.
+- Doesn't support history, bookmarks, favourites.
 - It can download files but doesn't show any downloaded history within the application.
 - Not a graphic rich application.
 - Keyboard Shortcuts.
