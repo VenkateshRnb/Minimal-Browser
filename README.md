@@ -5,7 +5,7 @@
 ### A little intro
  - This browser is for those who prefer minimalism. 
  - This idea is the root for developing this browser.
- - This application was developed using CefSharp WinForms (For Windows Forms Application) and Microsoft Visual Studio 2017
+ - This application was developed using CefSharp WinForms (For Windows Forms Application) and Microsoft Visual Studio 2017.
  
 ### What is CefSharp?
  CefSharp lets you embed Chromium in .NET apps. It is a lightweight .NET wrapper around the Chromium Embedded Framework (CEF) by Marshall A. Greenblatt. About 30% of the bindings are written in C++/CLI with the majority of code here is C#. It can be used from C# or VB, or any other CLR language. CefSharp provides both WPF and WinForms web browser control implementations.
@@ -25,7 +25,7 @@ CefSharp is BSD licensed, so it can be used in both proprietary and free/open so
 - Keyboard Shortcuts.
 
 
-Icons that are used in this application are obtained from Icon Archive (http://www.iconarchive.com/)
+Icons that are used in this application are obtained from Icon Archive (http://www.iconarchive.com/).
 
 ### Reach me
 Venkatesh Ramoju (https://www.linkedin.com/in/venkateshrnb/)
