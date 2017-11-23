@@ -24,8 +24,8 @@ CefSharp is BSD licensed, so it can be used in both proprietary and free/open so
 - Not a graphic rich application.
 - Keyboard Shortcuts.
 
-
-Icons that are used in this application are obtained from Icon Archive (http://www.iconarchive.com/).
+####CefSharp Winforms (https://www.nuget.org/packages/CefSharp.WinForms/)
+####Icons that are used in this application are obtained from Icon Archive (http://www.iconarchive.com/).
 
 ### Reach me
 Venkatesh Ramoju (https://www.linkedin.com/in/venkateshrnb/)
